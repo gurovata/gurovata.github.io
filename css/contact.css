@@ -32,30 +32,6 @@
   color: var(--color-text-light);
 }
 
-.contact__social {
-  display: flex;
-  gap: 15px;
-  margin-top: 30px;
-}
-
-.contact__social-link {
-  width: 40px;
-  height: 40px;
-  background-color: var(--color-primary);
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: white;
-  font-size: 1.2rem;
-  transition: var(--transition);
-}
-
-.contact__social-link:hover {
-  background-color: var(--color-primary-dark);
-  color: white;
-}
-
 .form-group {
   margin-bottom: 20px;
 }
