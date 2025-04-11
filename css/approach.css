@@ -12,12 +12,6 @@
   flex: 1;
 }
 
-.approach__image {
-  flex: 1;
-  border-radius: var(--border-radius);
-  box-shadow: var(--shadow);
-}
-
 .approach__item {
   margin-bottom: 30px;
   padding: 20px;
